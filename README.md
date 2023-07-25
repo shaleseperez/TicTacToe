@@ -1,6 +1,6 @@
 # Tic Tac Toe :x: :o: 
 
-## This is a Tic-Tac-Toe game created in React
+## This is a Tic-Tac-Toe game created with React
 
 ### How to Run
 * Download the zip and extract the files (Or fork the repository and fetch the files)
